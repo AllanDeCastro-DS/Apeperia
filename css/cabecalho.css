@@ -20,6 +20,12 @@
 .cabecalho__logo {
     margin-bottom: 1rem;
 }
+.cabecalho__logo__form {
+    margin-bottom: 1rem;
+    position: absolute;
+    top: 1.7rem;
+    right: 39rem;
+}
 
 .cabecalho__navegacao {
     text-align: center;
